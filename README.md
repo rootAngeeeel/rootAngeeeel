@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rootAngeeeel
-- 👀 I’m interested in la ciberseguridad, electronica y scripting.
-- 🌱 I’m currently learning  ingeniern en sistemas 
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @rootAngeeeel.
+- 👀 I’m interested in cibersegurity, electronics programming and scripting bash.
+- 🌱 I’m currently learning Dev in .Net Core and Net Framework, platforms web and API's.
+- 💞️ I’m looking to collaborate on projects IoT and Robotics.
 - 📫 How to reach me ...
 
 <!---
